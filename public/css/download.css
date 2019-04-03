@@ -1,0 +1,45 @@
+
+.reminding{
+    width: 100%;
+    height: 550px;
+    background-color: rgb(242,242,242);
+}
+.remindcenter{
+    margin: auto;
+    width: 1000px;
+    height: 550px;
+    background-color: rgb(242,242,242);
+    color: rgb(13,20,39);
+}
+.remindtitle{
+    margin: auto;
+    font-size: 30px;
+    font-weight: normal;
+    font-family: 'Microsoft Yahei';
+    top: 35px;
+}
+.remindpicnews{
+    width: 400px;
+    height: 250px;
+    top: 120px;
+    left: 0px;
+}
+.remindpicnewstxt{
+    margin: 0px;
+    font-size: 20px;
+    left: 0px;
+    font-family: 'Microsoft Yahei';
+    color: black;
+}
+.remindlink{
+    color: rgb(13,20,39) !important;
+}
+.remindnews{
+    border: none;
+    font-size: 18px;
+    font-family: 'Microsoft Yahei';
+    top: 120px;
+    left: 430px;
+    color: black;
+
+}
